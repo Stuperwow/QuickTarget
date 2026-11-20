@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: QuickTarget
+## Notes: Type a name into a box, then click or keybind to /target it, put a raid marker on it, and ping it. No macro window needed.
+## Author: Tim
+## Version: 1.1.1
+## IconTexture: Interface\AddOns\QuickTarget\QuickTarget.tga
+## SavedVariables: QuickTargetDB
+
+QuickTarget.lua
